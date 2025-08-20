@@ -1,0 +1,3 @@
+[submodule "third_party/tasks"]
+	path = third_party/tasks
+	url = https://github.com/tasks/tasks.git
